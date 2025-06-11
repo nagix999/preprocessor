@@ -1,0 +1,5 @@
+ollama/
+Dockerfile
+docker-compose.yaml
+.dockerignore
+venv/
